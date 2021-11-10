@@ -1,0 +1,15 @@
+# pycharm
+.idea
+.pytest_cache
+myvenv
+
+# build
+build
+*.egg-info
+dist
+
+# Others
+__pycache__
+temp
+logs
+config.json
